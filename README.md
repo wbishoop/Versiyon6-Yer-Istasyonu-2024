@@ -1,1 +1,1 @@
-﻿# Versiyon6-Yer-Istasyonu---2024
+﻿# Versiyon6-Yer-Istasyonu-2024
