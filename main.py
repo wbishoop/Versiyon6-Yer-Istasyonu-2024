@@ -1,3 +1,7 @@
+"""
+BİSMİLLAHİRRAHMANİRRAHİM
+Versiyon6 Roket Takımı - Yer İstasyonu Yazılımı
+"""
 from customtkinter import *
 from pages import Anasayfa, YerIstasyonu, VeriCek
 
