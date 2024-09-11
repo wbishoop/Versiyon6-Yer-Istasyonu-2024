@@ -1,5 +1,6 @@
 ﻿# Versiyon6-Yer-Istasyonu-2024
 Versiyon6 Roket Takımı - Yer İstasyonu
+
  Özellikler: 
  - Port Ayarlama
  - Anlık Veri Takibi ve Arayüz
